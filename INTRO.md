@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @HoguBoss
+- 👀 I’m interested in learning front-end development
+- 🌱 I’m currently learning using The Odin Project
+- 📫 Reach me via https://www.linkedin.com/in/hyhchang/
